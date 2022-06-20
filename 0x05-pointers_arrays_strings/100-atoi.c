@@ -6,7 +6,7 @@
  * Return: encoded string
  */
 
-char _atoi(char *s)
+char *_atoi(char *s)
 {
 
 	int a[53] = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
