@@ -5,7 +5,7 @@
  * @n: number to be printed
  */
 
-void print_number(int n)
+void _atoi(int n)
 {
 	unsigned int tens, digit, positive = n;
 	double t_beg = 1;
